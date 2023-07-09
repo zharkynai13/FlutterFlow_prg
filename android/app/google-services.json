@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "714247053537",
+    "project_id": "koreacars-b5df3",
+    "storage_bucket": "koreacars-b5df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714247053537:android:5eb980ecf3ba90b1e097a0",
+        "android_client_info": {
+          "package_name": "com.mycompany.koreacars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714247053537-alv7rssv9oqp4ii2ecmlu0b4fqhdquck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.koreacars",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "714247053537-k7o53upqf7ce3lr1jvs55367p03pl355.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mKmT6L3nKn8en1LMR5HcOX9p4gbfGcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714247053537-k7o53upqf7ce3lr1jvs55367p03pl355.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714247053537-nslmgquv9v2g3v6j445ak9u4uhp5mvh0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.koreacars"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
